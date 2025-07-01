@@ -145,3 +145,6 @@ dmypy.json
 *.pt
 
 /plot/*.csv
+
+# pyfhel build if present
+.pyfhel
